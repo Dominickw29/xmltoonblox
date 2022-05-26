@@ -1,0 +1,4713 @@
+{
+   "scene": {
+      "store_suit_point": [
+         {
+            "_id": "0",
+            "_type": "STREET_POINT",
+            "_x": "25",
+            "_y": "25",
+            "_z": "-0.5"
+         },
+         {
+            "_id": "1",
+            "_type": "STREET_POINT",
+            "_x": "25",
+            "_y": "15",
+            "_z": "-0.5"
+         },
+         {
+            "_id": "2",
+            "_type": "STREET_POINT",
+            "_x": "55",
+            "_y": "15",
+            "_z": "-0.5"
+         },
+         {
+            "_id": "3",
+            "_type": "STREET_POINT",
+            "_x": "55",
+            "_y": "25",
+            "_z": "-0.5"
+         }
+      ],
+      "group": {
+         "visgroup": {
+            "suit_edge": [
+               {
+                  "_a": "0",
+                  "_b": "1"
+               },
+               {
+                  "_a": "1",
+                  "_b": "2"
+               },
+               {
+                  "_a": "2",
+                  "_b": "3"
+               },
+               {
+                  "_a": "3",
+                  "_b": "0"
+               }
+            ],
+            "battle_cell": {
+               "_width": "20",
+               "_height": "20",
+               "_x": "75",
+               "_y": "20",
+               "_z": "-0.5"
+            },
+            "group": {
+               "prop": [
+                  {
+                     "pos": {
+                        "_x": "210",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "sign": {
+                        "pos": {
+                           "_x": "0",
+                           "_y": "0",
+                           "_z": "-2.84"
+                        },
+                        "scale": {
+                           "_x": "1.5",
+                           "_y": "1",
+                           "_z": "1.5"
+                        },
+                        "baseline": [
+                           {
+                              "color": {
+                                 "_r": "0",
+                                 "_g": "0.501961",
+                                 "_b": "0.25098",
+                                 "_a": "1"
+                              },
+                              "pos": {
+                                 "_x": "0.09",
+                                 "_y": "0",
+                                 "_z": "-0.99"
+                              },
+                              "scale": {
+                                 "_x": "1.5",
+                                 "_y": "1",
+                                 "_z": "1.5"
+                              },
+                              "text": "PLAYGROUND",
+                              "_code": "mickey",
+                              "_width": "38.4394",
+                              "_height": "38.4394"
+                           },
+                           {
+                              "pos": {
+                                 "_x": "0",
+                                 "_y": "0",
+                                 "_z": "1.5"
+                              },
+                              "scale": {
+                                 "_x": "2.5",
+                                 "_y": "1",
+                                 "_z": "2.5"
+                              },
+                              "graphic": {
+                                 "_code": "mickeySZ"
+                              }
+                           },
+                           {
+                              "color": {
+                                 "_r": "0",
+                                 "_g": "0.501961",
+                                 "_b": "0.25098",
+                                 "_a": "1"
+                              },
+                              "pos": {
+                                 "_x": "0",
+                                 "_y": "0",
+                                 "_z": "-1.94"
+                              },
+                              "hpr": {
+                                 "_h": "0",
+                                 "_p": "0",
+                                 "_r": "-1"
+                              },
+                              "scale": {
+                                 "_x": "0.8",
+                                 "_y": "1",
+                                 "_z": "0.8"
+                              },
+                              "text": "TOONTOWN CENTRAL",
+                              "_code": "mickey",
+                              "_width": "50",
+                              "_height": "50"
+                           }
+                        ],
+                        "_code": "tunnel_sign_orange"
+                     },
+                     "_name": "linktunnel_tt_0_DNARoot",
+                     "_code": "prop_safe_zone_entrance_tunnel"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_brickbox_ur_DNARoot",
+                     "_code": "prop_tree_large_brickbox_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "204",
+                        "_y": "35",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-45",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_TT_DNARoot",
+                     "_code": "neighborhood_sign_TT"
+                  },
+                  {
+                     "pos": {
+                        "_x": "203",
+                        "_y": "5.00001",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "45",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_TT_DNARoot",
+                     "_code": "neighborhood_sign_TT"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_brickbox_ul_DNARoot",
+                     "_code": "prop_tree_large_brickbox_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "96",
+                        "_y": "-5",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "96",
+                        "_y": "50.3001",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ul_DNARoot",
+                     "_code": "prop_tree_small_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "69",
+                        "_y": "-35",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "112",
+                        "_y": "-36",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_big_planter_DNARoot",
+                     "_code": "prop_big_planter"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "-17",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_cellar_door_DNARoot",
+                     "_code": "prop_cellar_door"
+                  },
+                  {
+                     "pos": {
+                        "_x": "29",
+                        "_y": "-42",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_big_planter_DNARoot",
+                     "_code": "prop_big_planter"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "5",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.19211",
+                        "_y": "1.19211",
+                        "_z": "1.19211"
+                     },
+                     "_name": "prop_tree_small_ul_DNARoot",
+                     "_code": "prop_tree_small_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "23",
+                        "_y": "-63",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ul_DNARoot",
+                     "_code": "prop_tree_small_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "5",
+                        "_y": "-46",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.13727",
+                        "_y": "1.13727",
+                        "_z": "1.13727"
+                     },
+                     "_name": "prop_tree_large_ul_DNARoot",
+                     "_code": "prop_tree_large_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "28",
+                        "_y": "35",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.10413",
+                        "_y": "1.10413",
+                        "_z": "1.10413"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "70",
+                        "_y": "75",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "0.845024",
+                        "_y": "0.845024",
+                        "_z": "0.845024"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "37",
+                        "_y": "93",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_big_planter_DNARoot",
+                     "_code": "prop_big_planter"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "54",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_cellar_door_DNARoot",
+                     "_code": "prop_cellar_door"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "85",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_cellar_door_DNARoot",
+                     "_code": "prop_cellar_door"
+                  },
+                  {
+                     "pos": {
+                        "_x": "16",
+                        "_y": "93",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.33692",
+                        "_y": "1.33692",
+                        "_z": "1.33692"
+                     },
+                     "_name": "prop_tree_large_ul_DNARoot",
+                     "_code": "prop_tree_large_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "27",
+                        "_y": "118",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "135",
+                        "_y": "-37",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ul_DNARoot",
+                     "_code": "prop_tree_large_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "147.3",
+                        "_y": "34",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "144",
+                        "_y": "3.69994",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "170.7",
+                        "_y": "35",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ul_DNARoot",
+                     "_code": "prop_tree_large_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "173",
+                        "_y": "3.30004",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "0.871352",
+                        "_y": "0.871352",
+                        "_z": "0.871352"
+                     },
+                     "_name": "prop_tree_small_ul_DNARoot",
+                     "_code": "prop_tree_small_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "215",
+                        "_y": "-28.6999",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.06784",
+                        "_y": "1.06784",
+                        "_z": "1.06784"
+                     },
+                     "_name": "prop_tree_small_ul_DNARoot",
+                     "_code": "prop_tree_small_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "224",
+                        "_y": "66.3001",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.19204",
+                        "_y": "1.19204",
+                        "_z": "1.19204"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "187",
+                        "_y": "-9.99993",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_cellar_door_DNARoot",
+                     "_code": "prop_cellar_door"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_wood_fence_DNARoot",
+                     "_code": "prop_wood_fence"
+                  },
+                  {
+                     "pos": {
+                        "_x": "186.725",
+                        "_y": "5.3825",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "94",
+                        "_y": "-34",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "92.5642",
+                        "_y": "75.9019",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "45",
+                        "_y": "5",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "45",
+                        "_y": "35",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  }
+               ],
+               "flat_building": [
+                  {
+                     "pos": {
+                        "_x": "105",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.44",
+                                 "_b": "0.15",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "0"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.44",
+                                 "_b": "0.15",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "0",
+                        "_y": "30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.88",
+                              "_b": "0.8",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.1",
+                                 "_g": "0.59",
+                                 "_b": "0.39",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_cement_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.88",
+                              "_b": "0.8",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.1",
+                                 "_g": "0.59",
+                                 "_b": "0.39",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_cement_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "0",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.88",
+                              "_b": "0.8",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.1",
+                                 "_g": "0.59",
+                                 "_b": "0.39",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_cement_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.88",
+                              "_b": "0.8",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.1",
+                                 "_g": "0.59",
+                                 "_b": "0.39",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_cement_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "150",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "4"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "0.77",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "20",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.21",
+                                 "_g": "0.73",
+                                 "_b": "0.31",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.21",
+                                 "_g": "0.73",
+                                 "_b": "0.31",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "0",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.71",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.71",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "130",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.92",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_shuttered_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.35",
+                                 "_g": "0.69",
+                                 "_b": "0.49",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "-30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.67",
+                              "_b": "0.25",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.42",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.75",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.67",
+                              "_b": "0.25",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.42",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "40",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_stone_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.92",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_shuttered_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.35",
+                                 "_g": "0.69",
+                                 "_b": "0.49",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_stone_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_stone_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "-40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_stone_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "15",
+                        "_y": "-30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.67",
+                              "_b": "0.25",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.42",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "40",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.92",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_shuttered_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.35",
+                                 "_g": "0.69",
+                                 "_b": "0.49",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "90",
+                        "_y": "90",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.69",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.32",
+                                 "_g": "0.54",
+                                 "_b": "0.36",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.89",
+                                 "_g": "0.95",
+                                 "_b": "0.17",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "90",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.69",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.32",
+                                 "_g": "0.54",
+                                 "_b": "0.36",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.89",
+                                 "_g": "0.95",
+                                 "_b": "0.17",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "45",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.21",
+                              "_g": "0.73",
+                              "_b": "0.31",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.21",
+                              "_g": "0.73",
+                              "_b": "0.31",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "-20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "-20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "-30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "-40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.71",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "135",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.71",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.21",
+                                 "_g": "0.73",
+                                 "_b": "0.31",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "125",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.92",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_shuttered_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.35",
+                                 "_g": "0.69",
+                                 "_b": "0.49",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20.7"
+                  },
+                  {
+                     "pos": {
+                        "_x": "165.7",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.88",
+                              "_b": "0.8",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.1",
+                                 "_g": "0.59",
+                                 "_b": "0.39",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_cement_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.88",
+                              "_b": "0.8",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.1",
+                                 "_g": "0.59",
+                                 "_b": "0.39",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_cement_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "175.7",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.93",
+                                 "_g": "0.83",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "145.7",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.42",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.31",
+                                 "_g": "0.63",
+                                 "_b": "0.37",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.71",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.42",
+                                 "_g": "0.69",
+                                 "_b": "0.27",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "175.7",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.93",
+                                 "_g": "0.83",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "145.7",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.92",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_shuttered_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.84",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.35",
+                                 "_g": "0.69",
+                                 "_b": "0.49",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.69",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.32",
+                                 "_g": "0.54",
+                                 "_b": "0.36",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.89",
+                                 "_g": "0.95",
+                                 "_b": "0.17",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "175",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.21",
+                                 "_g": "0.73",
+                                 "_b": "0.31",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "210",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "200",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "200",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190.7",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.93",
+                                 "_g": "0.83",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190",
+                        "_y": "-25",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.69",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.32",
+                                 "_g": "0.54",
+                                 "_b": "0.36",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.89",
+                                 "_g": "0.95",
+                                 "_b": "0.17",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "215",
+                        "_y": "5",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "165",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.21",
+                              "_g": "0.73",
+                              "_b": "0.31",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.21",
+                              "_g": "0.73",
+                              "_b": "0.31",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "215",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.6",
+                                 "_g": "0.66",
+                                 "_b": "0.27",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.84",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_dental_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "65",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.6",
+                                 "_g": "0.66",
+                                 "_b": "0.27",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.84",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_dental_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "90",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "1",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.21",
+                                 "_g": "0.73",
+                                 "_b": "0.31",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "25"
+                  },
+                  {
+                     "pos": {
+                        "_x": "75",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.13",
+                                 "_g": "0.78",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "4"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.27",
+                                 "_g": "0.77",
+                                 "_b": "0.42",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "20",
+                           "_code": "wall_md_pillars_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.95",
+                                 "_g": "0.89",
+                                 "_b": "0.17",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.79",
+                                 "_g": "0.36",
+                                 "_b": "0.19",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "20",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "70",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "85",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "1",
+                              "_a": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_woodflower_fence_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "45",
+                        "_y": "120",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.21",
+                              "_g": "0.73",
+                              "_b": "0.31",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.21",
+                              "_g": "0.73",
+                              "_b": "0.31",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "70",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.12",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_sm_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.7",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "85",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.42",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.31",
+                                 "_g": "0.63",
+                                 "_b": "0.37",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.71",
+                              "_b": "0.27",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.42",
+                                 "_g": "0.69",
+                                 "_b": "0.27",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "75",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.9",
+                              "_b": "0.33",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.11",
+                                 "_g": "0.67",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ur",
+                              "_count": "4"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "0.21",
+                                 "_g": "0.73",
+                                 "_b": "0.31",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_curved_ur"
+                           },
+                           "_height": "20",
+                           "_code": "wall_md_blank_ur"
+                        }
+                     ],
+                     "_id": "tb0:random_DNARoot",
+                     "_width": "15"
+                  }
+               ],
+               "anim_prop": [
+                  {
+                     "pos": {
+                        "_x": "52.5642",
+                        "_y": "73.9019",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+                     "_anim": "tt_a_ara_ttc_mailbox_fightIdle"
+                  },
+                  {
+                     "pos": {
+                        "_x": "187.676",
+                        "_y": "35.7579",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+                     "_anim": "tt_a_ara_ttc_mailbox_fightIdle"
+                  }
+               ],
+               "landmark_building": [
+                  {
+                     "title": "Toon HQ",
+                     "pos": {
+                        "_x": "100",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_id": "tb1:toon_landmark_hqTT_DNARoot",
+                     "_code": "toon_landmark_hqTT",
+                     "_type": "hq"
+                  },
+                  {
+                     "title": "",
+                     "pos": {
+                        "_x": "0",
+                        "_y": "5",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "door": {
+                        "color": {
+                           "_r": "1",
+                           "_g": "0.87",
+                           "_b": "0.38",
+                           "_a": "1"
+                        },
+                        "_code": "door_double_round_ur"
+                     },
+                     "_id": "tb2:toon_landmark_TT_A1_DNARoot",
+                     "_code": "toon_landmark_TT_A1"
+                  }
+               ],
+               "street": [
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "70",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_interior_corner_w_grass_DNARoot",
+                     "_code": "street_interior_corner_w_grass"
+                  },
+                  {
+                     "pos": {
+                        "_x": "50",
+                        "_y": "-20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_interior_corner_w_grass_DNARoot",
+                     "_code": "street_interior_corner_w_grass"
+                  },
+                  {
+                     "pos": {
+                        "_x": "70",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_30x20_DNARoot",
+                     "_code": "street_w_grass_30x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "70",
+                        "_y": "-20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_30x20_DNARoot",
+                     "_code": "street_w_grass_30x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "90",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_interior_corner_w_grass_DNARoot",
+                     "_code": "street_interior_corner_w_grass"
+                  },
+                  {
+                     "pos": {
+                        "_x": "80",
+                        "_y": "-30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_interior_corner_w_grass_DNARoot",
+                     "_code": "street_interior_corner_w_grass"
+                  },
+                  {
+                     "pos": {
+                        "_x": "80",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_grass_transitionL_30x10_DNARoot",
+                     "_code": "street_grass_transitionL_30x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "80",
+                        "_y": "50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_30x20_DNARoot",
+                     "_code": "street_w_grass_30x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "80",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_30x20_DNARoot",
+                     "_code": "street_w_grass_30x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "80",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_grass_transitionR_30x10_DNARoot",
+                     "_code": "street_grass_transitionR_30x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "80",
+                        "_y": "30",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_20x20_DNARoot",
+                     "_code": "street_20x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "-20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_street_20x20_DNARoot",
+                     "_code": "street_street_20x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_street_20x20_DNARoot",
+                     "_code": "street_street_20x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_street_20x20_DNARoot",
+                     "_code": "street_street_20x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_street_20x20_DNARoot",
+                     "_code": "street_street_20x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_exterior_corner_w_grass_DNARoot",
+                     "_code": "street_exterior_corner_w_grass"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_30x10_DNARoot",
+                     "_code": "street_w_grass_30x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "60",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_30x10_DNARoot",
+                     "_code": "street_w_grass_30x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_grass_transitionL_30x10_DNARoot",
+                     "_code": "street_grass_transitionL_30x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_grass_transitionR_30x10_DNARoot",
+                     "_code": "street_grass_transitionR_30x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "0",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_inner_corner_DNARoot",
+                     "_code": "street_inner_corner"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_inner_corner_DNARoot",
+                     "_code": "street_inner_corner"
+                  },
+                  {
+                     "pos": {
+                        "_x": "130",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_inner_corner_DNARoot",
+                     "_code": "street_inner_corner"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_inner_corner_DNARoot",
+                     "_code": "street_inner_corner"
+                  },
+                  {
+                     "pos": {
+                        "_x": "140",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_grass_transition_60x20_DNARoot",
+                     "_code": "street_grass_transition_60x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "180",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_grass_transition_60x20_DNARoot",
+                     "_code": "street_grass_transition_60x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "160",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_w_grass_60x20_DNARoot",
+                     "_code": "street_w_grass_60x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "40",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_exterior_corner_w_grass_DNARoot",
+                     "_code": "street_exterior_corner_w_grass"
+                  },
+                  {
+                     "pos": {
+                        "_x": "130",
+                        "_y": "-10",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x20_DNARoot",
+                     "_code": "street_sidewalk_10x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "130",
+                        "_y": "40",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x20_DNARoot",
+                     "_code": "street_sidewalk_10x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "50",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x40_DNARoot",
+                     "_code": "street_sidewalk_10x40"
+                  },
+                  {
+                     "pos": {
+                        "_x": "30",
+                        "_y": "100",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x20_DNARoot",
+                     "_code": "street_sidewalk_10x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x40_DNARoot",
+                     "_code": "street_sidewalk_10x40"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120",
+                        "_y": "-20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x40_DNARoot",
+                     "_code": "street_sidewalk_10x40"
+                  },
+                  {
+                     "pos": {
+                        "_x": "70",
+                        "_y": "-60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x10_DNARoot",
+                     "_code": "street_sidewalk_10x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "20",
+                        "_y": "-50",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x20_DNARoot",
+                     "_code": "street_sidewalk_10x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "190",
+                        "_y": "0",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_20x40_DNARoot",
+                     "_code": "street_20x40"
+                  },
+                  {
+                     "pos": {
+                        "_x": "145.7",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x20_DNARoot",
+                     "_code": "street_sidewalk_10x20"
+                  },
+                  {
+                     "pos": {
+                        "_x": "165.7",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x10_DNARoot",
+                     "_code": "street_sidewalk_10x10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "110",
+                        "_y": "20",
+                        "_z": "0"
+                     },
+                     "hpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "texture": [
+                        "street_street_TT_tex",
+                        "street_sidewalk_TT_tex",
+                        "street_curb_TT_tex"
+                     ],
+                     "_name": "street_sidewalk_10x10_DNARoot",
+                     "_code": "street_sidewalk_10x10"
+                  }
+               ],
+               "_name": "tutorial"
+            },
+            "_zone": "20001",
+            "_vis": "20001"
+         },
+         "prop": [
+            {
+               "pos": {
+                  "_x": "110",
+                  "_y": "50",
+                  "_z": "0"
+               },
+               "hpr": {
+                  "_h": "-90",
+                  "_p": "0",
+                  "_r": "0"
+               },
+               "_name": "prop_wood_fence_DNARoot",
+               "_code": "prop_wood_fence"
+            },
+            {
+               "pos": {
+                  "_x": "110",
+                  "_y": "40",
+                  "_z": "0"
+               },
+               "hpr": {
+                  "_h": "-90",
+                  "_p": "0",
+                  "_r": "0"
+               },
+               "_name": "prop_wood_fence_DNARoot",
+               "_code": "prop_wood_fence"
+            },
+            {
+               "pos": {
+                  "_x": "110",
+                  "_y": "10",
+                  "_z": "0"
+               },
+               "hpr": {
+                  "_h": "-90",
+                  "_p": "0",
+                  "_r": "0"
+               },
+               "_name": "prop_wood_fence_DNARoot",
+               "_code": "prop_wood_fence"
+            },
+            {
+               "pos": {
+                  "_x": "110",
+                  "_y": "0",
+                  "_z": "0"
+               },
+               "hpr": {
+                  "_h": "-90",
+                  "_p": "0",
+                  "_r": "0"
+               },
+               "_name": "prop_wood_fence_DNARoot",
+               "_code": "prop_wood_fence"
+            }
+         ],
+         "anim_prop": [
+            {
+               "pos": {
+                  "_x": "46",
+                  "_y": "-30",
+                  "_z": "0"
+               },
+               "hpr": {
+                  "_h": "0",
+                  "_p": "0",
+                  "_r": "0"
+               },
+               "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+               "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+               "_anim": "tt_a_ara_ttc_mailbox_fightIdle"
+            }
+         ],
+         "_name": "toontownCentralTutorial"
+      },
+      "_zone": "20001"
+   }
+}
