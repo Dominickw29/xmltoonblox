@@ -1,0 +1,2413 @@
+{
+   "scene": {
+      "group": [
+         {
+            "visgroup": {
+               "prop": [
+                  {
+                     "pos": {
+                        "_x": "-124",
+                        "_y": "-77.5",
+                        "_z": "0.525"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "npc_origin_3",
+                     "_code": "DCS"
+                  },
+                  {
+                     "pos": {
+                        "_x": "9.15527e-005",
+                        "_y": "-1.90735e-006",
+                        "_z": "2.6226e-006"
+                     },
+                     "nhpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "-0"
+                     },
+                     "_name": "toontown_central_DNARoot",
+                     "_code": "toontown_central"
+                  },
+                  {
+                     "pos": {
+                        "_x": "57.413",
+                        "_y": "-0.9",
+                        "_z": "4.025"
+                     },
+                     "nhpr": {
+                        "_h": "-270",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.2",
+                        "_y": "1.2",
+                        "_z": "1.4"
+                     },
+                     "_name": "prop_christmas_tree_DNARoot",
+                     "_code": "prop_christmas_tree"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-79.7819",
+                        "_y": "79.5309",
+                        "_z": "0"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-127.003",
+                        "_y": "30.3763",
+                        "_z": "0"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-128.16",
+                        "_y": "-24.0245",
+                        "_z": "0.000663757"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-60.94",
+                        "_y": "-8.8",
+                        "_z": "-2"
+                     },
+                     "nhpr": {
+                        "_h": "-178",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_gazebo_DNARoot",
+                     "_code": "prop_gazebo"
+                  },
+                  {
+                     "pos": {
+                        "_x": "119.621",
+                        "_y": "-127.865",
+                        "_z": "2.49998"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "127.424",
+                        "_y": "-59.0748",
+                        "_z": "2.5"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "120.107",
+                        "_y": "-44.4808",
+                        "_z": "2.5"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "96.8622",
+                        "_y": "-146.373",
+                        "_z": "2.52"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "114.056",
+                        "_y": "-57.3443",
+                        "_z": "2.5"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ur_DNARoot",
+                     "_code": "prop_tree_small_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "21.3941",
+                        "_y": "-144.665",
+                        "_z": "2.99998"
+                     },
+                     "nhpr": {
+                        "_h": "-30",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_MM_DNARoot",
+                     "_code": "neighborhood_sign_DG"
+                  },
+                  {
+                     "pos": {
+                        "_x": "44.1038",
+                        "_y": "-157.906",
+                        "_z": "2.99998"
+                     },
+                     "nhpr": {
+                        "_h": "148",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_MM_DNARoot",
+                     "_code": "neighborhood_sign_DG"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-143.503",
+                        "_y": "-8.9528",
+                        "_z": "0.499987"
+                     },
+                     "nhpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_MM_DNARoot",
+                     "_code": "neighborhood_sign_MM"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-143.242",
+                        "_y": "16.9541",
+                        "_z": "0.499977"
+                     },
+                     "nhpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_MM_DNARoot",
+                     "_code": "neighborhood_sign_MM"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-59.1768",
+                        "_y": "92.9836",
+                        "_z": "0.499824"
+                     },
+                     "nhpr": {
+                        "_h": "-9",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_MM_DNARoot",
+                     "_code": "neighborhood_sign_DD"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-33.749",
+                        "_y": "88.9499",
+                        "_z": "0.499825"
+                     },
+                     "nhpr": {
+                        "_h": "170",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "neighborhood_sign_MM_DNARoot",
+                     "_code": "neighborhood_sign_DD"
+                  },
+                  {
+                     "pos": {
+                        "_x": "142.717",
+                        "_y": "108.674",
+                        "_z": "2.49998"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_fat_ur_DNARoot",
+                     "_code": "prop_tree_fat_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "6.33804",
+                        "_y": "100.879",
+                        "_z": "2.5"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_fat_ur_DNARoot",
+                     "_code": "prop_tree_fat_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-23.998",
+                        "_y": "74.1829",
+                        "_z": "0"
+                     },
+                     "nhpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_small_ul_DNARoot",
+                     "_code": "prop_tree_large_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "103.397",
+                        "_y": "79.4494",
+                        "_z": "2.5"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_fat_ur_DNARoot",
+                     "_code": "prop_tree_fat_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "116.09",
+                        "_y": "54.81",
+                        "_z": "2.5"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_fat_ur_DNARoot",
+                     "_code": "prop_tree_fat_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "18.9496",
+                        "_y": "-48.977",
+                        "_z": "4.95856"
+                     },
+                     "nhpr": {
+                        "_h": "-135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_big_planter_DNARoot",
+                     "_code": "prop_big_planter"
+                  },
+                  {
+                     "pos": {
+                        "_x": "19.2327",
+                        "_y": "52.5553",
+                        "_z": "4.95837"
+                     },
+                     "nhpr": {
+                        "_h": "-135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_big_planter_DNARoot",
+                     "_code": "prop_big_planter"
+                  },
+                  {
+                     "pos": {
+                        "_x": "6.51316",
+                        "_y": "-96.6973",
+                        "_z": "2.49997"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_fat_ul_DNARoot",
+                     "_code": "prop_tree_fat_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-53.7466",
+                        "_y": "-73.3194",
+                        "_z": "0.00999998"
+                     },
+                     "nhpr": {
+                        "_h": "105",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_large_ur_DNARoot",
+                     "_code": "prop_tree_large_ur"
+                  },
+                  {
+                     "pos": {
+                        "_x": "93.2057",
+                        "_y": "-106.482",
+                        "_z": "2.50002"
+                     },
+                     "nhpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_toontown_central_fountain_DNARoot",
+                     "_code": "prop_toontown_central_fountain"
+                  },
+                  {
+                     "pos": {
+                        "_x": "121.385",
+                        "_y": "-52.1246",
+                        "_z": "2.525"
+                     },
+                     "nhpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "npc_doodle_origin_0",
+                     "_code": "DCS"
+                  },
+                  {
+                     "pos": {
+                        "_x": "73.6829",
+                        "_y": "121.026",
+                        "_z": "2.49996"
+                     },
+                     "nhpr": {
+                        "_h": "0",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_mickey_on_horse_DNARoot",
+                     "_code": "prop_mickey_on_horse"
+                  },
+                  {
+                     "pos": {
+                        "_x": "3.84337",
+                        "_y": "118.504",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "-110",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_one_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "116.979",
+                        "_y": "146.926",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "145",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_one_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "86.808",
+                        "_y": "164.831",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "-95",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_one_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "55.4077",
+                        "_y": "154.679",
+                        "_z": "2.49996"
+                     },
+                     "nhpr": {
+                        "_h": "-33",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_tree_fat_ul_DNARoot",
+                     "_code": "prop_tree_fat_ul"
+                  },
+                  {
+                     "pos": {
+                        "_x": "43.7488",
+                        "_y": "-86.2016",
+                        "_z": "3.00007"
+                     },
+                     "nhpr": {
+                        "_h": "-2",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "77.3059",
+                        "_y": "-86.4255",
+                        "_z": "2.99998"
+                     },
+                     "nhpr": {
+                        "_h": "-2",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "58.8052",
+                        "_y": "93.6999",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "92.8051",
+                        "_y": "93.6997",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "-90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "135.10",
+                        "_y": "-125.99",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "-130",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_one_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "4.9912",
+                        "_y": "-116.182",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "-155",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_one_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "108.962",
+                        "_y": "-28.0532",
+                        "_z": "4"
+                     },
+                     "nhpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "-0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "108.205",
+                        "_y": "32.0659",
+                        "_z": "4"
+                     },
+                     "nhpr": {
+                        "_h": "-180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "32.9609",
+                        "_y": "61.9462",
+                        "_z": "4"
+                     },
+                     "nhpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "28.9617",
+                        "_y": "-57.0532",
+                        "_z": "4"
+                     },
+                     "nhpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-101.98",
+                        "_y": "-70.4832",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "175",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-129.889",
+                        "_y": "-39.5582",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "175",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_three_light_DNARoot",
+                     "_code": "prop_post_three_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-125",
+                        "_y": "60",
+                        "_z": "0"
+                     },
+                     "nhpr": {
+                        "_h": "150",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_post_one_light_DNARoot",
+                     "_code": "prop_post_one_light"
+                  },
+                  {
+                     "pos": {
+                        "_x": "38.282",
+                        "_y": "163.591",
+                        "_z": "2.95929"
+                     },
+                     "nhpr": {
+                        "_h": "31",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1.18418",
+                        "_y": "1.18418",
+                        "_z": "1.18418"
+                     },
+                     "_name": "prop_wood_fence_DNARoot",
+                     "_code": "prop_wood_fence"
+                  },
+                  {
+                     "pos": {
+                        "_x": "77.935",
+                        "_y": "-159.939",
+                        "_z": "2.60141"
+                     },
+                     "nhpr": {
+                        "_h": "195",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "prop_party_gate_DNARoot",
+                     "_code": "prop_party_gate"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-21.5",
+                        "_y": "-83.8",
+                        "_z": "0.525"
+                     },
+                     "nhpr": {
+                        "_h": "-32",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "npc_questgiver_origin_0",
+                     "_code": "DCS"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-30.9",
+                        "_y": "-85.1",
+                        "_z": "0.525"
+                     },
+                     "nhpr": {
+                        "_h": "30",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "npc_questgiver_origin_1",
+                     "_code": "DCS"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-45",
+                        "_y": "-85",
+                        "_z": "0.525"
+                     },
+                     "nhpr": {
+                        "_h": "8.75",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1",
+                        "_y": "1",
+                        "_z": "1"
+                     },
+                     "_name": "bench_0",
+                     "_code": "prop_playground_bench"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-130",
+                        "_y": "50",
+                        "_z": "0.525"
+                     },
+                     "nhpr": {
+                        "_h": "250.85",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1",
+                        "_y": "1",
+                        "_z": "1"
+                     },
+                     "_name": "bench_1",
+                     "_code": "prop_playground_bench"
+                  },
+                  {
+                     "pos": {
+                        "_x": "9.25",
+                        "_y": "-122",
+                        "_z": "3.025"
+                     },
+                     "nhpr": {
+                        "_h": "294.25",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1",
+                        "_y": "1",
+                        "_z": "1"
+                     },
+                     "_name": "bench_2",
+                     "_code": "prop_playground_bench"
+                  },
+                  {
+                     "pos": {
+                        "_x": "123",
+                        "_y": "138",
+                        "_z": "3.025"
+                     },
+                     "nhpr": {
+                        "_h": "127.5",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "scale": {
+                        "_x": "1",
+                        "_y": "1",
+                        "_z": "1"
+                     },
+                     "_name": "bench_3",
+                     "_code": "prop_playground_bench"
+                  }
+               ],
+               "group": [
+                  {
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "-68",
+                              "_y": "-2",
+                              "_z": "-1.975"
+                           },
+                           "nhpr": {
+                              "_h": "27",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "_name": "npc_fisherman_origin_0",
+                           "_code": "DCS"
+                        },
+                        {
+                           "pos": {
+                              "_x": "-63.5335",
+                              "_y": "41.648",
+                              "_z": "-3.36708"
+                           },
+                           "nhpr": {
+                              "_h": "120",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "_name": "fishing_spot_DNARoot",
+                           "_code": "fishing_spot"
+                        },
+                        {
+                           "pos": {
+                              "_x": "-90.2253",
+                              "_y": "42.5202",
+                              "_z": "-3.3105"
+                           },
+                           "nhpr": {
+                              "_h": "-135",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "_name": "fishing_spot_DNARoot",
+                           "_code": "fishing_spot"
+                        },
+                        {
+                           "pos": {
+                              "_x": "-94.9218",
+                              "_y": "31.4153",
+                              "_z": "-3.20083"
+                           },
+                           "nhpr": {
+                              "_h": "-105",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "_name": "fishing_spot_DNARoot",
+                           "_code": "fishing_spot"
+                        },
+                        {
+                           "pos": {
+                              "_x": "-77.5199",
+                              "_y": "46.9817",
+                              "_z": "-3.28456"
+                           },
+                           "nhpr": {
+                              "_h": "-180",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "_name": "fishing_spot_DNARoot",
+                           "_code": "fishing_spot"
+                        }
+                     ],
+                     "_name": "fishing_pond_1"
+                  },
+                  {
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "-239.67",
+                              "_y": "64.08",
+                              "_z": "-6.18"
+                           },
+                           "nhpr": {
+                              "_h": "-90",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "sign": {
+                              "scale": {
+                                 "_x": "1.5",
+                                 "_y": "1",
+                                 "_z": "1.5"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-0.84"
+                                    },
+                                    "nhpr": {
+                                       "_h": "0",
+                                       "_p": "0",
+                                       "_r": "2"
+                                    },
+                                    "scale": {
+                                       "_x": "1.5",
+                                       "_y": "1",
+                                       "_z": "1.5"
+                                    },
+                                    "text": "LOOPY  LANE",
+                                    "_code": "mickey",
+                                    "_width": "33.3333",
+                                    "_height": "33.3333"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-2"
+                                    },
+                                    "nhpr": {
+                                       "_h": "0",
+                                       "_p": "0",
+                                       "_r": "2"
+                                    },
+                                    "scale": {
+                                       "_x": "0.8",
+                                       "_y": "1",
+                                       "_z": "0.8"
+                                    },
+                                    "text": "TOONTOWN CENTRAL",
+                                    "_code": "mickey",
+                                    "_width": "50",
+                                    "_height": "50"
+                                 },
+                                 {
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "1.77"
+                                    },
+                                    "scale": {
+                                       "_x": "2.5",
+                                       "_y": "1",
+                                       "_z": "2.5"
+                                    },
+                                    "graphic": {
+                                       "_code": "mickeySZ"
+                                    }
+                                 }
+                              ],
+                              "_code": "tunnel_sign_orange"
+                           },
+                           "_name": "linktunnel_tt_2226_DNARoot",
+                           "_code": "prop_safe_zone_tunnel"
+                        },
+                        {
+                           "pos": {
+                              "_x": "-68.38",
+                              "_y": "-202.64",
+                              "_z": "-3.58"
+                           },
+                           "nhpr": {
+                              "_h": "-31",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "sign": {
+                              "scale": {
+                                 "_x": "1.5",
+                                 "_y": "1",
+                                 "_z": "1.5"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-0.76"
+                                    },
+                                    "scale": {
+                                       "_x": "1.5",
+                                       "_y": "1",
+                                       "_z": "1.5"
+                                    },
+                                    "text": "SILLY STREET",
+                                    "_code": "mickey",
+                                    "_width": "33.3333",
+                                    "_height": "33.3333"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "-0.08",
+                                       "_y": "0",
+                                       "_z": "-1.98"
+                                    },
+                                    "scale": {
+                                       "_x": "0.8",
+                                       "_y": "1",
+                                       "_z": "0.8"
+                                    },
+                                    "text": "TOONTOWN CENTRAL",
+                                    "_code": "mickey",
+                                    "_width": "44.0567",
+                                    "_height": "44.0567"
+                                 },
+                                 {
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "1.75"
+                                    },
+                                    "scale": {
+                                       "_x": "2.5",
+                                       "_y": "1",
+                                       "_z": "2.5"
+                                    },
+                                    "graphic": {
+                                       "_code": "mickeySZ"
+                                    }
+                                 }
+                              ],
+                              "_code": "tunnel_sign_orange"
+                           },
+                           "_name": "linktunnel_tt_2132_DNARoot",
+                           "_code": "prop_safe_zone_tunnel"
+                        },
+                        {
+                           "pos": {
+                              "_x": "27.6402",
+                              "_y": "176.475",
+                              "_z": "-6.18"
+                           },
+                           "nhpr": {
+                              "_h": "171",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "sign": {
+                              "pos": {
+                                 "_x": "0",
+                                 "_y": "0",
+                                 "_z": "-0.18"
+                              },
+                              "scale": {
+                                 "_x": "1.5",
+                                 "_y": "1",
+                                 "_z": "1.5"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-2.01"
+                                    },
+                                    "nhpr": {
+                                       "_h": "0",
+                                       "_p": "0",
+                                       "_r": "1"
+                                    },
+                                    "scale": {
+                                       "_x": "0.8",
+                                       "_y": "1",
+                                       "_z": "0.8"
+                                    },
+                                    "text": "TOONTOWN CENTRAL",
+                                    "_code": "mickey",
+                                    "_width": "40.563",
+                                    "_height": "40.563"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-0.33"
+                                    },
+                                    "scale": {
+                                       "_x": "1.3",
+                                       "_y": "1",
+                                       "_z": "1"
+                                    },
+                                    "text": "PUNCHLINE",
+                                    "_code": "mickey",
+                                    "_width": "49.1087",
+                                    "_height": "49.1087"
+                                 },
+                                 {
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "1.69"
+                                    },
+                                    "scale": {
+                                       "_x": "2.5",
+                                       "_y": "1",
+                                       "_z": "2.5"
+                                    },
+                                    "graphic": {
+                                       "_code": "mickeySZ"
+                                    }
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "0",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-1.34"
+                                    },
+                                    "scale": {
+                                       "_x": "1.3",
+                                       "_y": "1",
+                                       "_z": "1"
+                                    },
+                                    "text": "PLACE",
+                                    "_code": "mickey"
+                                 }
+                              ],
+                              "_code": "tunnel_sign_orange"
+                           },
+                           "_name": "linktunnel_tt_2301_DNARoot",
+                           "_code": "prop_safe_zone_tunnel"
+                        },
+                        {
+                           "pos": {
+                              "_x": "20.9205",
+                              "_y": "172.683",
+                              "_z": "3.24925"
+                           },
+                           "nhpr": {
+                              "_h": "-150",
+                              "_p": "-0.083787",
+                              "_r": "0.0101321"
+                           },
+                           "sign": {
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "0.00392157",
+                                       "_g": "0.403922",
+                                       "_b": "0.803922",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "2.07014",
+                                       "_y": "0",
+                                       "_z": "0.591417"
+                                    },
+                                    "nhpr": {
+                                       "_h": "0",
+                                       "_p": "0",
+                                       "_r": "0.828508"
+                                    },
+                                    "scale": {
+                                       "_x": "2.67969",
+                                       "_y": "1",
+                                       "_z": "2.12201"
+                                    },
+                                    "text": "Goofy",
+                                    "_code": "mickey",
+                                    "_width": "38.5314",
+                                    "_height": "38.5314",
+                                    "_flags": "b"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "0.501961",
+                                       "_b": "0.25098",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "-0.572558",
+                                       "_y": "0",
+                                       "_z": "-3.648"
+                                    },
+                                    "nhpr": {
+                                       "_h": "0",
+                                       "_p": "0",
+                                       "_r": "1.03171"
+                                    },
+                                    "scale": {
+                                       "_x": "3.31651",
+                                       "_y": "1",
+                                       "_z": "3.4338"
+                                    },
+                                    "text": "Speedway",
+                                    "_code": "mickey",
+                                    "_wiggle": "-1.9889",
+                                    "_stumble": "0.1",
+                                    "_width": "-62.3199",
+                                    "_height": "-62.3199"
+                                 }
+                              ]
+                           },
+                           "_name": "linktunnel_gs_8000_DNARoot",
+                           "_code": "prop_GS_tunnel"
+                        }
+                     ],
+                     "_name": "props"
+                  }
+               ],
+               "node": [
+                  {
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "-120.945",
+                              "_y": "-77.5626",
+                              "_z": "0.525"
+                           },
+                           "nhpr": {
+                              "_h": "128",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "sign": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.88",
+                                 "_b": "0.56",
+                                 "_a": "1"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "0.992157",
+                                       "_g": "0.968627",
+                                       "_b": "0.00784314",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0.5",
+                                       "_y": "0",
+                                       "_z": "1.33"
+                                    },
+                                    "scale": {
+                                       "_x": "1.4",
+                                       "_y": "1",
+                                       "_z": "1.4"
+                                    },
+                                    "text": "TROLLEY",
+                                    "_code": "mickey",
+                                    "_kern": "-0.09181",
+                                    "_width": "10.9993",
+                                    "_height": "10.9993"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "0",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0.29",
+                                       "_y": "0",
+                                       "_z": "-1.9"
+                                    },
+                                    "scale": {
+                                       "_x": "2.7",
+                                       "_y": "1",
+                                       "_z": "2.7"
+                                    },
+                                    "text": "GAMES",
+                                    "_code": "mickey",
+                                    "_kern": "-0.2159"
+                                 }
+                              ]
+                           },
+                           "_name": "prop_trolley_station_DNARoot",
+                           "_code": "prop_trolley_station"
+                        }
+                     ],
+                     "landmark_building": [
+                        {
+                           "title": "Toontown Library",
+                           "pos": {
+                              "_x": "91.4475",
+                              "_y": "-44.9255",
+                              "_z": "4"
+                           },
+                           "nhpr": {
+                              "_h": "180",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "door": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.45",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "door_double_round_ur"
+                           },
+                           "sign": {
+                              "pos": {
+                                 "_x": "1.52",
+                                 "_y": "0",
+                                 "_z": "3.88"
+                              },
+                              "scale": {
+                                 "_x": "1",
+                                 "_y": "1",
+                                 "_z": "0.8"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "0.611765",
+                                       "_b": "0.129412",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-0.63"
+                                    },
+                                    "scale": {
+                                       "_x": "2.4",
+                                       "_y": "1",
+                                       "_z": "2.4"
+                                    },
+                                    "text": "Library",
+                                    "_code": "mickey",
+                                    "_kern": "-0.074144",
+                                    "_width": "32.3782",
+                                    "_height": "32.3782"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "1",
+                                       "_b": "0.501961",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "-0.18",
+                                       "_y": "0",
+                                       "_z": "1.24"
+                                    },
+                                    "scale": {
+                                       "_x": "1.1",
+                                       "_y": "1",
+                                       "_z": "1.4"
+                                    },
+                                    "text": "toontown",
+                                    "_code": "mickey",
+                                    "_width": "29.3574",
+                                    "_height": "29.3574"
+                                 }
+                              ],
+                              "_code": "TTC_sign3"
+                           },
+                           "_id": "sz18:toon_landmark_TT_library_DNARoot",
+                           "_code": "toon_landmark_TT_library"
+                        },
+                        {
+                           "title": "Toontown Bank",
+                           "pos": {
+                              "_x": "57.1796",
+                              "_y": "38.6656",
+                              "_z": "4"
+                           },
+                           "nhpr": {
+                              "_h": "0",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "door": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.45",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "door_double_round_ur"
+                           },
+                           "sign": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "1",
+                                 "_b": "0.776471",
+                                 "_a": "1"
+                              },
+                              "pos": {
+                                 "_x": "0",
+                                 "_y": "0",
+                                 "_z": "-0.64"
+                              },
+                              "scale": {
+                                 "_x": "1.2",
+                                 "_y": "1",
+                                 "_z": "0.9"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "0.662745",
+                                       "_b": "0.32549",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-1.58"
+                                    },
+                                    "scale": {
+                                       "_x": "2.9",
+                                       "_y": "1",
+                                       "_z": "3.4"
+                                    },
+                                    "text": "Bank",
+                                    "_code": "mickey",
+                                    "_kern": "0.092795",
+                                    "_width": "50",
+                                    "_height": "50",
+                                    "_flags": "c"
+                                 }
+                              ]
+                           },
+                           "_id": "sz14:toon_landmark_TT_bank_DNARoot",
+                           "_code": "toon_landmark_TT_bank"
+                        },
+                        {
+                           "title": "Toontown School House",
+                           "pos": {
+                              "_x": "129.919",
+                              "_y": "-138.445",
+                              "_z": "2.4997"
+                           },
+                           "nhpr": {
+                              "_h": "-140",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "door": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.45",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "door_double_square_ur"
+                           },
+                           "sign": {
+                              "pos": {
+                                 "_x": "-0.35",
+                                 "_y": "0",
+                                 "_z": "0.3"
+                              },
+                              "scale": {
+                                 "_x": "0.9",
+                                 "_y": "1",
+                                 "_z": "0.9"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "0.501961",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-0.49"
+                                    },
+                                    "scale": {
+                                       "_x": "1.5",
+                                       "_y": "1",
+                                       "_z": "1.8"
+                                    },
+                                    "text": "School House",
+                                    "_code": "mickey",
+                                    "_kern": "-0.028793",
+                                    "_width": "40.778",
+                                    "_height": "40.778"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "1",
+                                       "_b": "0.501961",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "1.24"
+                                    },
+                                    "scale": {
+                                       "_x": "1.1",
+                                       "_y": "1",
+                                       "_z": "1.1"
+                                    },
+                                    "text": "toontown",
+                                    "_code": "mickey",
+                                    "_width": "24.3433",
+                                    "_height": "24.3433"
+                                 }
+                              ],
+                              "_code": "TTC_sign3"
+                           },
+                           "_id": "sz16:toon_landmark_TT_school_house_DNARoot",
+                           "_code": "toon_landmark_TT_school_house"
+                        },
+                        {
+                           "title": "Clothing Shop",
+                           "pos": {
+                              "_x": "106.265",
+                              "_y": "160.831",
+                              "_z": "3"
+                           },
+                           "nhpr": {
+                              "_h": "-30",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "door": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.45",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "door_double_clothesshop_ur"
+                           },
+                           "sign": {
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "0.611765",
+                                       "_b": "0.423529",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "-0.5"
+                                    },
+                                    "scale": {
+                                       "_x": "1.7",
+                                       "_y": "1",
+                                       "_z": "1.7"
+                                    },
+                                    "text": "Clothing Shop",
+                                    "_code": "mickey"
+                                 }
+                              ]
+                           },
+                           "_id": "sz21:toon_landmark_TT_clothes_shop_DNARoot",
+                           "_code": "toon_landmark_TT_clothes_shop",
+                           "_type": "clotheshop"
+                        },
+                        {
+                           "title": "Toon Hall",
+                           "pos": {
+                              "_x": "116.66",
+                              "_y": "24.29",
+                              "_z": "4"
+                           },
+                           "nhpr": {
+                              "_h": "-90",
+                              "_p": "0",
+                              "_r": "-0"
+                           },
+                           "door": {
+                              "color": {
+                                 "_r": "0.88",
+                                 "_g": "0.45",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "door_double_round_ur"
+                           },
+                           "sign": {
+                              "pos": {
+                                 "_x": "0",
+                                 "_y": "0",
+                                 "_z": "-1.13"
+                              },
+                              "scale": {
+                                 "_x": "1.2",
+                                 "_y": "1",
+                                 "_z": "1.2"
+                              },
+                              "baseline": [
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "1",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0.3",
+                                       "_y": "0",
+                                       "_z": "-1.4"
+                                    },
+                                    "scale": {
+                                       "_x": "2.2",
+                                       "_y": "1",
+                                       "_z": "2.3"
+                                    },
+                                    "text": "TOON  HALL",
+                                    "_code": "mickey",
+                                    "_kern": "-0.099751",
+                                    "_width": "134.553",
+                                    "_height": "134.553"
+                                 },
+                                 {
+                                    "color": {
+                                       "_r": "1",
+                                       "_g": "1",
+                                       "_b": "0",
+                                       "_a": "1"
+                                    },
+                                    "pos": {
+                                       "_x": "0",
+                                       "_y": "0",
+                                       "_z": "1.08"
+                                    },
+                                    "scale": {
+                                       "_x": "1.7",
+                                       "_y": "1",
+                                       "_z": "1.7"
+                                    },
+                                    "text": "mickey",
+                                    "_code": "mickey",
+                                    "_kern": "-0.108469",
+                                    "_width": "19.1721",
+                                    "_height": "19.1721"
+                                 }
+                              ]
+                           },
+                           "_id": "sz13:toon_landmark_TT_toonhall_DNARoot",
+                           "_code": "toon_landmark_TT_toonhall"
+                        }
+                     ],
+                     "_name": "buildings"
+                  },
+                  {
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "-13.8",
+                              "_y": "-48.8",
+                              "_z": "0"
+                           },
+                           "nhpr": {
+                              "_h": "15.2",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "scale": {
+                              "_x": "1.6",
+                              "_y": "1.2",
+                              "_z": "1.9"
+                           },
+                           "_name": "winter_snowpile_DNARoot",
+                           "_code": "winter_snowpile"
+                        }
+                     ],
+                     "_name": "winter_snowpile_0"
+                  },
+                  {
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "-24.2",
+                              "_y": "45.1",
+                              "_z": "0"
+                           },
+                           "nhpr": {
+                              "_h": "184.5",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "scale": {
+                              "_x": "1.7",
+                              "_y": "1.3",
+                              "_z": "2.1"
+                           },
+                           "_name": "winter_snowpile_DNARoot",
+                           "_code": "winter_snowpile"
+                        }
+                     ],
+                     "_name": "winter_snowpile_1"
+                  },
+                  {
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "59.1",
+                              "_y": "21.8",
+                              "_z": "4.0"
+                           },
+                           "nhpr": {
+                              "_h": "208.8",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "scale": {
+                              "_x": "1.1",
+                              "_y": "1.3",
+                              "_z": "0.8"
+                           },
+                           "_name": "winter_snowpile_DNARoot",
+                           "_code": "winter_snowpile"
+                        }
+                     ],
+                     "_name": "winter_snowpile_3"
+                  }
+               ],
+               "landmark_building": [
+                  {
+                     "title": "Gag Shop",
+                     "pos": {
+                        "_x": "-86.6848",
+                        "_y": "-90.5693",
+                        "_z": "0.500015"
+                     },
+                     "nhpr": {
+                        "_h": "-15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "door": {
+                        "color": {
+                           "_r": "1",
+                           "_g": "0.63",
+                           "_b": "0.38",
+                           "_a": "1"
+                        },
+                        "_code": "door_double_square_ur"
+                     },
+                     "_id": "sz19:toon_landmark_TT_gag_shop_DNARoot",
+                     "_code": "toon_landmark_TT_gag_shop",
+                     "_type": "gagshop"
+                  },
+                  {
+                     "title": "Toon HQ",
+                     "pos": {
+                        "_x": "24.6425",
+                        "_y": "24.8587",
+                        "_z": "4.00001"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "7.17",
+                              "_y": "-7.67",
+                              "_z": "19.07"
+                           },
+                           "nhpr": {
+                              "_h": "110",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "scale": {
+                              "_x": "4",
+                              "_y": "4",
+                              "_z": "4"
+                           },
+                           "_name": "animated_prop_HQPeriscopeAnimatedProp_DNARoot",
+                           "_code": "animated_prop_HQPeriscopeAnimatedProp"
+                        },
+                        {
+                           "pos": {
+                              "_x": "7.003",
+                              "_y": "0",
+                              "_z": "13.191"
+                           },
+                           "nhpr": {
+                              "_h": "168",
+                              "_p": "81",
+                              "_r": "0"
+                           },
+                           "scale": {
+                              "_x": "4",
+                              "_y": "4",
+                              "_z": "4"
+                           },
+                           "_name": "animated_prop_HQTelescopeAnimatedProp_DNARoot",
+                           "_code": "animated_prop_HQTelescopeAnimatedProp"
+                        }
+                     ],
+                     "_id": "tb20:toon_landmark_hqTT_DNARoot",
+                     "_code": "toon_landmark_hqTT",
+                     "_type": "hq"
+                  },
+                  {
+                     "title": "Pet Shop",
+                     "pos": {
+                        "_x": "-124.375",
+                        "_y": "74.3749",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "49",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "door": {
+                        "color": {
+                           "_r": "1",
+                           "_g": "0.87",
+                           "_b": "0.38",
+                           "_a": "1"
+                        },
+                        "_code": "door_double_round_ur"
+                     },
+                     "prop": [
+                        {
+                           "pos": {
+                              "_x": "0",
+                              "_y": "0",
+                              "_z": "0"
+                           },
+                           "nhpr": {
+                              "_h": "0",
+                              "_p": "0",
+                              "_r": "0"
+                           },
+                           "_name": "animated_prop_PetShopFishAnimatedProp_DNARoot",
+                           "_code": "animated_prop_PetShopFishAnimatedProp"
+                        }
+                     ],
+                     "sign": {
+                        "baseline": [
+                           {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "1",
+                                 "_b": "0",
+                                 "_a": "1"
+                              },
+                              "pos": {
+                                 "_x": "-0.0715486",
+                                 "_y": "0",
+                                 "_z": "0.575594"
+                              },
+                              "scale": {
+                                 "_x": "1.58014",
+                                 "_y": "1",
+                                 "_z": "2.42354"
+                              },
+                              "text": "PET SHOP",
+                              "_code": "mickey",
+                              "_width": "14.2363",
+                              "_height": "14.2363",
+                              "_flags": "d"
+                           }
+                        ]
+                     },
+                     "_id": "sz22:toon_landmark_TT_pet_shop_DNARoot",
+                     "_code": "toon_landmark_TT_pet_shop",
+                     "_type": "petshop"
+                  }
+               ],
+               "flat_building": [
+                  {
+                     "pos": {
+                        "_x": "-107.954",
+                        "_y": "-85.0626",
+                        "_z": "-0.18"
+                     },
+                     "nhpr": {
+                        "_h": "150",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.9",
+                              "_b": "0.33",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.31",
+                                 "_g": "0.63",
+                                 "_b": "0.37",
+                                 "_a": "1"
+                              },
+                              "_code": "window_porthole_ur",
+                              "_count": "0"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.9",
+                              "_b": "0.33",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.59",
+                                 "_g": "1",
+                                 "_b": "0.49",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_lg_brick_ur"
+                        }
+                     ],
+                     "_id": "sz0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-94.9639",
+                        "_y": "-92.5626",
+                        "_z": "-0.18"
+                     },
+                     "nhpr": {
+                        "_h": "150",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.93",
+                                 "_g": "0.83",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "sz0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-139.693",
+                        "_y": "-54.0363",
+                        "_z": "-0.18"
+                     },
+                     "nhpr": {
+                        "_h": "110",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "1",
+                              "_b": "0.59",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.63",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_pointed_ul",
+                              "_count": "2"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_pillars_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.91",
+                              "_g": "0.63",
+                              "_b": "0.44",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.6",
+                                 "_g": "0.66",
+                                 "_b": "0.27",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_round_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.84",
+                                 "_b": "0.59",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_dental_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "sz0:random_DNARoot",
+                     "_width": "15"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-148.706",
+                        "_y": "-25.452",
+                        "_z": "-0.18"
+                     },
+                     "nhpr": {
+                        "_h": "90",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.9",
+                              "_g": "0.56",
+                              "_b": "0.34",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_ul"
+                        },
+                        {
+                           "color": {
+                              "_r": "0.9",
+                              "_g": "0.56",
+                              "_b": "0.34",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_sm_curved_ur",
+                              "_count": "1"
+                           },
+                           "cornice": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "1",
+                                 "_b": "0.52",
+                                 "_a": "1"
+                              },
+                              "_code": "cornice_marble_ur"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_blank_dl"
+                        }
+                     ],
+                     "_id": "sz0:random_DNARoot",
+                     "_width": "10"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-144.824",
+                        "_y": "-39.9409",
+                        "_z": "-0.18"
+                     },
+                     "nhpr": {
+                        "_h": "105",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "wall": [
+                        {
+                           "color": {
+                              "_r": "0.99",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "0.93",
+                                 "_g": "0.83",
+                                 "_b": "0.33",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        },
+                        {
+                           "color": {
+                              "_r": "1",
+                              "_g": "0.89",
+                              "_b": "0.49",
+                              "_a": "1"
+                           },
+                           "windows": {
+                              "color": {
+                                 "_r": "1",
+                                 "_g": "0.87",
+                                 "_b": "0.38",
+                                 "_a": "1"
+                              },
+                              "_code": "window_md_curved_ur",
+                              "_count": "1"
+                           },
+                           "_height": "10",
+                           "_code": "wall_md_dental_ur"
+                        }
+                     ],
+                     "_id": "sz0:random_DNARoot",
+                     "_width": "15"
+                  }
+               ],
+               "anim_prop": [
+                  {
+                     "pos": {
+                        "_x": "-95",
+                        "_y": "87",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "15",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+                     "_anim": "tt_a_ara_ttc_mailbox_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-60.77",
+                        "_y": "-91.18",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "195",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+                     "_anim": "tt_a_ara_ttc_mailbox_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "57.09",
+                        "_y": "-163.44",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "180",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+                     "_anim": "tt_a_ara_ttc_mailbox_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "11.8",
+                        "_y": "134.58",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "60",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_mailbox_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_mailbox",
+                     "_anim": "tt_a_ara_ttc_mailbox_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "133.82",
+                        "_y": "124.946",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "300",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_hydrant_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_hydrant",
+                     "_anim": "tt_a_ara_ttc_hydrant_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "139.25",
+                        "_y": "-122.45",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "60",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_hydrant_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_hydrant",
+                     "_anim": "tt_a_ara_ttc_hydrant_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "105.911",
+                        "_y": "-153.71",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "240",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_trashcan_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_trashcan",
+                     "_anim": "tt_a_ara_ttc_trashcan_idleHiccup0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "15.37",
+                        "_y": "-90.27",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "135",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_hydrant_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_hydrant",
+                     "_anim": "tt_a_ara_ttc_hydrant_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "117.805",
+                        "_y": "151.699",
+                        "_z": "3"
+                     },
+                     "nhpr": {
+                        "_h": "270",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_trashcan_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_trashcan",
+                     "_anim": "tt_a_ara_ttc_trashcan_idleHiccup0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-145.168",
+                        "_y": "-19.1499",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "85",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_trashcan_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_trashcan",
+                     "_anim": "tt_a_ara_ttc_trashcan_idleHiccup0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-19.1686",
+                        "_y": "83.5834",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "355",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_hydrant_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_hydrant",
+                     "_anim": "tt_a_ara_ttc_hydrant_idle0"
+                  },
+                  {
+                     "pos": {
+                        "_x": "-69.2756",
+                        "_y": "95.9983",
+                        "_z": "0.5"
+                     },
+                     "nhpr": {
+                        "_h": "355",
+                        "_p": "0",
+                        "_r": "0"
+                     },
+                     "_name": "animated_prop_generic_phase_5_models_char__ttc_trashcan_DNARoot",
+                     "_code": "animated_prop_generic_phase_5_models_char__ttc_trashcan",
+                     "_anim": "tt_a_ara_ttc_trashcan_idleHiccup0"
+                  }
+               ],
+               "_zone": "2000:safe_zone",
+               "_vis": "2000:safe_zone"
+            },
+            "_name": "toontownCentral"
+         }
+      ],
+      "_zone": "2000"
+   }
+}
